@@ -1,3 +1,10 @@
-p {
-  font-family: Lato;
-}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 30%;
+  }
+
+  .pad{
+      width: 25%;
+      height: 110px;
+  }
